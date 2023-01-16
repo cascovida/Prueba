@@ -21,3 +21,8 @@ pnpm-debug.log*
 
 # vscode
 .vscode/
+astro.config.mjs
+package-lock.json
+package.json
+README.node_modules
+tsconfig.json
